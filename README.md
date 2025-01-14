@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Passionate developer who's all about machine learning and building cool side projects! 🚀
 
-* 🌍  I'm based in India
+* 🌍  I'm based in `India`
 * ✉️  You can contact me at [rahulxsharma00@gmail.com](mailto:rahulxsharma00@gmail.com)
 * 🧠  I'm learning about machine learning and LLMs
 
